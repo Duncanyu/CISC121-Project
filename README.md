@@ -116,5 +116,6 @@ Duncan
 ## Acknowledgement
 
 * AI was used to build Gradio interface and help with HTML. However, the majority of the backend/binary search was done without AI help.
+* A README template was generated with AI, the majority of which is filled out by hand and later verified using AI.
 * Gradio for UI development
 * Inspired by algorithm visualization tools such as VisuAlgo
