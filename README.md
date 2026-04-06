@@ -116,5 +116,6 @@ Duncan
 
 ## Acknowledgement
 
+* AI was used to build Gradio interface and help with HTML. However, the majority of the backend/binary search was done without AI help.
 * Gradio for UI development
 * Inspired by algorithm visualization tools such as VisuAlgo
