@@ -102,9 +102,8 @@ https://huggingface.co/spaces/duncanfr/cisc121_project
 * Verified visualizer correctly updates each step
 * Tested challenge mode logic for:
 
-  * Repeated clicks
-  * Invalid indices
   * Game completion conditions
+  * Prevention of already selected/out of range indices
 
 ---
 
