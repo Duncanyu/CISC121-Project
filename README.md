@@ -85,7 +85,7 @@ This demonstrates why binary search is more efficient than guessing randomly.
 
 ## Hugging Face Link
 
-(Add your deployed Hugging Face app link here)
+https://huggingface.co/spaces/duncanfr/cisc121_project
 
 ---
 
