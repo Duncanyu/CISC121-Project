@@ -75,11 +75,11 @@ This demonstrates why binary search is more efficient than guessing randomly.
 
 1. Clone the repository
 
-2. Install dependencies
-   pip install -r requirements.txt
+2. Install dependencies:
+   ```pip install -r requirements.txt```
 
-3. Run the app
-   python app.py
+4. Run the app:
+   ```python app.py```
 
 ---
 
