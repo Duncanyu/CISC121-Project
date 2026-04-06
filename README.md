@@ -2,6 +2,14 @@
 
 ## Demos
 
+### Working Binary Search Demo
+![working_compressed](https://github.com/user-attachments/assets/8be6364f-1a79-4ba6-98b8-0133f860c807)
+
+### Broken Binary Search Demo
+![broken_compressed](https://github.com/user-attachments/assets/1495e670-3da0-4eef-a756-22369a2ca9f4)
+
+### Human vs Binary Challenge Demo
+![challenge_compressed](https://github.com/user-attachments/assets/4f95d8c5-e6db-44ba-83fb-8579e81b15a1)
 
 ---
 
