@@ -1,8 +1,7 @@
 # Binary Search Visualizer & Challenge
 
-## Demo
+## Demos
 
-(Add a screenshot, GIF, or short video of your app here showing both the visualizer and challenge mode.)
 
 ---
 
